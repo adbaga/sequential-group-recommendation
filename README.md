@@ -20,9 +20,9 @@ The result of this experiment is presented in the file Results: Sequential GR Re
 
 <p>To run the notebook, install these python packages:</p>
 <ul>
-<li href="https://anaconda.org/anaconda/pandas">Pandas </li>
-<li href="https://anaconda.org/anaconda/scipy">Scipy</li>
-<li href= "https://anaconda.org/conda-forge/matplotlib">Matplotlib</li>
-<li href="https://anaconda.org/anaconda/numpy">Numpy</li>
+<li><a href="https://anaconda.org/anaconda/pandas">Pandas</a> </li>
+<li><a href="https://anaconda.org/anaconda/scipy">Scipy</a></li>
+<li><a href= "https://anaconda.org/conda-forge/matplotlib">Matplotlib</a></li>
+<li><a href="https://anaconda.org/anaconda/numpy">Numpy</a></li>
 </ul>
 
