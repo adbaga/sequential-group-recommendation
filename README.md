@@ -5,6 +5,7 @@
 assignment I implemented the paper "Fair Sequential Group Recommendations" by Maria Stratigi, Jyrki Nummenmaa, Evaggelia Pitoura,
 and Kostas Stefanidis and experiment with our modification of the implementation. This implementation is based on collaborative filtering method using user based similarity</p>
 
+<a href="https://homepages.tuni.fi/konstantinos.stefanidis/docs/sac20.pdf">Link to the paper </a>
 <br>
 Jupyter Notebook files:
 <ul>
