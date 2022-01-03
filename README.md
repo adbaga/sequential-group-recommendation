@@ -21,7 +21,7 @@ Jupyter Notebook files:
 
 The result of this experiment is presented in the file Results: Sequential GR Recommender Systems.pdf
 
-<p>To run the notebook, install these python packages:</p>
+<p>To be able to run the notebook, install these python libraries:</p>
 <ul>
 <li><a href="https://anaconda.org/anaconda/pandas">Pandas</a> </li>
 <li><a href="https://anaconda.org/anaconda/scipy">Scipy</a></li>
