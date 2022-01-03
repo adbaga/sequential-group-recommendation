@@ -5,7 +5,10 @@
 
 <p>
 In this assignment I implemented the paper "Fair Sequential Group Recommendations" by Maria Stratigi, Jyrki Nummenmaa, Evaggelia Pitoura,
-and Kostas Stefanidis and experiment with our modification and comparison between the results of the implementation. This implementation is based on collaborative filtering method using user based similarity</p>
+and Kostas Stefanidis and experiment with the modification and comparison between the results of the implementation. This implementation is based on collaborative filtering method using user based similarity</p>
+
+<p>I would give an appreciation Neil Patel, my classmate with whom I spent a good amount of time to understand the assignment,
+formulating the challenges, exchanging ideas, and in the end each of us could produce proper implementations, solutions, and method. </p>
 
 <a href="https://homepages.tuni.fi/konstantinos.stefanidis/docs/sac20.pdf">Link to the paper </a>
 <br>
